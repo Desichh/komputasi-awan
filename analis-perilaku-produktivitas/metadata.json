@@ -1,6 +1,0 @@
-{
-  "name": "Analis Perilaku Produktivitas",
-  "description": "AI analis perilaku produktivitas yang mendeteksi pola penundaan (procrastination) dan memberikan wawasan personal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
