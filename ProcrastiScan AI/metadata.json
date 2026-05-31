@@ -1,6 +1,0 @@
-{
-  "name": "ProcrastiScan AI",
-  "description": "Detektor psikologis real-time & asisten AI canggih untuk menganalisis tipe penundaan (procrastination), melahirkan kebiasaan anti-menunda, dan memantau status streak produktivitas sosial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
